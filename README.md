@@ -1,6 +1,6 @@
 # communitymanager-client
 
-Creación y gestión de redes sociales, creación de contenido para cada post en las redes sociales del cliente. 
+Me ocupé de la creación y gestión de redes sociales de Il Mio Passaporto, creación de contenido para cada post en las redes sociales y atención al cliente. 
 
 
 ![2022-04-27-20-45-www instagram com](https://user-images.githubusercontent.com/83841663/165649141-b74ba35d-af39-4744-932d-eed6524baf12.png)
